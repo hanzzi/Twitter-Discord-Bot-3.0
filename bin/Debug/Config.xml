@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!-- Enter DiscordToken Here you can create a Bot here https://discordapp.com/developers/applications/me-->
+  <DiscordToken>MjQwNzUyMDgxOTI4MDYwOTI4.Cvy1UQ.wmqwZri4SqxkUSpcI4Evc099Ja0</DiscordToken>
+  <!-- True will enable Manual Login in the CommandLine, False will enable Username and Password fields for automatic login-->
+  <ManualAuth>False</ManualAuth>
+  <!-- Enter Twitter Username Here-->
+  <Username>hans-byager@live.dk</Username>
+  <!-- Enter Twitter Password Here-->
+  <Password>kbg47bmr</Password>
+  <!-- Enter Twitter Consumerkey here you can get a Twitter App here https://apps.twitter.com/-->
+  <Consumerkey>RKq7laSYHSxSfp5FTt3ciDkyZ</Consumerkey>
+  <!-- Enter Twitter ConsumerSecret here-->
+  <ConsumerSecret>Gbvd76Nn4wV0Blv5YiOSv9tbgEWijdBJGVZVBIIjgelvS8JJ6l</ConsumerSecret>
+  <!-- Enter Twitter AccessToken Here-->
+  <AccessToken>2558354432-Dwiy58bNuDgVgSA3tyQg7tFpWiLBMsQHqp3fy58</AccessToken>
+  <!-- Enter Twitter AccessSecret here 	-->
+  <AccessSecret>I6DjsvY6OgkIEoxGaeEpdx528B3SbwNL3yd6dr4yio6hg</AccessSecret>
+</Config>

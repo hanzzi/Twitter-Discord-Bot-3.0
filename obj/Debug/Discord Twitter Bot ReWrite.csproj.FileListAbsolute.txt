@@ -1,0 +1,32 @@
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Discord Twitter Bot ReWrite.exe.config
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Discord Twitter Bot ReWrite.exe
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Discord Twitter Bot ReWrite.pdb
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Autofac.dll
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Discord.Net.Commands.dll
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Discord.Net.dll
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Newtonsoft.Json.dll
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Nito.AsyncEx.Concurrent.dll
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Nito.AsyncEx.dll
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\RestSharp.dll
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\System.Net.Http.Extensions.dll
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\System.Net.Http.Primitives.dll
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Tweetinvi.dll
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\WebSocket4Net.dll
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Autofac.xml
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Newtonsoft.Json.xml
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Nito.AsyncEx.xml
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Nito.AsyncEx.Concurrent.xml
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\RestSharp.xml
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\System.Net.Http.Extensions.xml
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\bin\Debug\System.Net.Http.Primitives.xml
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\obj\Debug\Discord Twitter Bot ReWrite.csprojResolveAssemblyReference.cache
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\obj\Debug\Discord Twitter Bot ReWrite.exe
+D:\Users\hans2734\Source\Repos\Discord Twitter Bot ReWrite\Discord Twitter Bot ReWrite\obj\Debug\Discord Twitter Bot ReWrite.pdb
